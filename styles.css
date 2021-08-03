@@ -1,0 +1,10 @@
+.group {
+	background-color: #171010;
+	padding: 3rem;
+}
+
+#groupName {
+	font-size: 20px;
+	color: #EEEEEE;
+	padding-left: 35rem;
+}
