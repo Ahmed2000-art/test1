@@ -1,10 +1,12 @@
-.group {
+body {
 	background-color: #171010;
-	padding: 3rem;
 }
 
-#groupName {
-	font-size: 20px;
-	color: #EEEEEE;
-	padding-left: 35rem;
+#photo1 {
+	width: 600px;
+}
+
+#photo2 {
+	width: 600px;
+	padding-top: 420px;
 }
